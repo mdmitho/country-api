@@ -1,0 +1,50 @@
+Component 
+Template
+State 
+Routing
+
+destacariong janta hova
+
+
+             44-2 Web component, 4 types of component, identify component
+
+ google search 
+thatjsdude.com
+
+simelar in loop defrant data 
+
+Component 4 baby identify kora jai
+
+1 simelar patan in loop defrant in data
+
+2 container component
+
+3 no pattern , But Breakdown for working purpose
+
+4  stand alone component
+
+
+44-3 Template, dynamically create HTML elements based on data
+
+
+arr.join(' ') arrayr moday onake khula jenis thakly join deay akta banano jai and string ar moday ja debay ta array komar k chacng korba and string ar moday ja devay tai 
+
+                   44-4 Single Page Application (SPA), Performance benefit
+
+google shearch = single page application benefits/url parts
+
+              44-6 Explore destructuring and send data to html elements using props
+
+google shearch = html attribute vs propartic/props
+
+propartic khulo ka coto kora props bola
+
+
+
+
+
+
+
+
+
+ 
